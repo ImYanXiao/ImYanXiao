@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/85a59d52a955a71fc9149.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">ImYanXiao 🐱💗</h1>
+<h1 align="center">🎐ImYanXiao 💗</h1>
 <p align="center">
   <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=🎐Yow!+Im+Explorer+Script;My+Name+is+XiaoYan💗;Learning+NodeJs!;Please+Support+Me+With+Donate;🐰💗" alt="UwU">
 </p>
@@ -33,6 +33,7 @@
 * Jogging
 * Music
 * Explorer Script
+* Fix Script
 * And Other
 
 * ## About
