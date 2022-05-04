@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">🎐ImYanXiao 💗</h1>
 <p align="center">
-  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=🎐Yow!+Im+Not+Programmer;My+Name+is+XiaoYan💗;Learning+NodeJs!;Please+Support+Me+With+Donate;🐰💗" alt="UwU">
+  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=🎐Yow!+Im+Not+Programmer;My+Name+is+XiaoYan💗;Learning+NodeJs!;Please+Support+Me+With+Donate;🐰💗" alt="UwU">
 </p>
 
 <p align="center">
