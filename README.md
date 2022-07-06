@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">🎐ImYanXiao 🔥</h1>
 <p align="center">
-  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=🎐Yow!+Im+Not+Programmer;My+Name+is+XiaoYan💗;Learning+NodeJs!;Please+Support+Me+With+Donate;🐰💗" alt="UwU">
+  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=🎐Yow!+Im+Not+Programmer;My+Name+is+XiaoYan💗;Im+Just+Student👨‍🎓" alt="UwU">
 </p>
 
 <p align="center">
@@ -51,11 +51,6 @@ I'm currently learning:
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281231079387) 
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285736178354) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa) 
-
----------
-
-## Donate 🧧
-* [`Saweria`](https://saweria.co/XiaoYan021)
 
 ---------
 
