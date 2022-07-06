@@ -9,8 +9,9 @@
 <p align="center">
 <a href="https://github.com/ImYanXiao"><img title="Author" src="https://img.shields.io/badge/Xiao-Yan-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
-<img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
----------
+img align="right" alt="js" width="45px" src="https://i.ibb.co/PTMpZF1/1633694131337.png" />
+
+--------
 ## Connect With Me 💌
   <a href="https://wa.me/6285736178354">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
@@ -30,7 +31,7 @@
 * ## Hobby
 * Jogging
 * Music
-* Explorer Script
+* Fun
 * Fix Script
 * And Other
 
@@ -73,3 +74,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=ImYanXiao&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImYanXiao&theme=vue">
 
+I'm currently learning:
+#### Languages and Tools:
+<img align="right" alt="js" width="45px" src="https://i.ibb.co/PTMpZF1/1633694131337.png" />
