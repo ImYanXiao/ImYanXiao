@@ -18,7 +18,7 @@ I'm currently learning:
 ## ```Spotify Music``` 🎵
 
 <p align="center">
-  <a href="https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="One Direction • FOUR (Deluxe) https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 --------
