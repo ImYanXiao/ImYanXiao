@@ -15,10 +15,12 @@ I'm currently learning:
 <img align="right" alt="html5" width="45px" src="https://i.ibb.co/Gn517kM/1633695675200.png" />
 <img align="right" alt="py" width="45px" src="https://i.ibb.co/wgNvZ1N/python.png" />
 
+
+
 ## ```Spotify Music``` 🎵
 
 <p align="center">
-  <a href="One Direction • FOUR (Deluxe) https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ?si=Btfle_keSyysCVtV-bZvFQ&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 --------
