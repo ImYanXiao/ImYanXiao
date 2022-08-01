@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://github.com/ImYanXiao"><img title="Author" src="https://img.shields.io/badge/Xiao-Yan-blue.svg?style=for-the-badge&logo=github"></a>
 
-I'm currently learning:
+I'm Currently Learning:
 #### 💻Languages :
 <img align="right" alt="js" width="45px" src="https://i.ibb.co/PTMpZF1/1633694131337.png" />
 <img align="right" alt="html5" width="45px" src="https://i.ibb.co/Gn517kM/1633695675200.png" />
