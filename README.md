@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/e86b361b05cc319c31359.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">🎐ImYanXiao 🔥</h1>
+<h1 align="center">ImYanXiao 🎐</h1>
 <p align="center">
   <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=🎐Hii+Im+Not+Programmer;My+Name+is+XiaoYan✨;Im+Just+Student👨‍🎓" alt="UwU">
 </p>
@@ -31,16 +31,16 @@ I'm currently learning:
 ---
 
  ```bash
-# BIODATA 🎨
+# ʙɪᴏᴅᴀᴛᴀ 🎨
 
-* ## Hobby
+* ## ʜᴏʙʙʏ
 * Jogging
 * Music
 * Physical Exercise
 * Fix Script
 * And Other
 
-* ## About
+* ## ᴀʙᴏᴜᴛ ᴍᴇ
 * Age: 17th
 * Gender: Male
 * Name: Xiao Yan
