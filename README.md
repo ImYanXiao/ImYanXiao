@@ -31,16 +31,16 @@ I'm currently learning:
 ---
 
  ```bash
-# ʙɪᴏᴅᴀᴛᴀ 🎨
+# B i o d a t a 🎨
 
-* ## ʜᴏʙʙʏ
+* ##  H o b b y
 * Jogging
 * Music
 * Physical Exercise
 * Fix Script
 * And Other
 
-* ## ᴀʙᴏᴜᴛ ᴍᴇ
+* ## A b o u t M e
 * Age: 17th
 * Gender: Male
 * Name: Xiao Yan
