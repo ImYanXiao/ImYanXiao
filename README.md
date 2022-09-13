@@ -9,6 +9,13 @@
 <p align="center">
 <a href="https://github.com/ImYanXiao"><img title="Author" src="https://img.shields.io/badge/Xiao-Yan-blue.svg?style=for-the-badge&logo=github"></a>
 
+## ```Spotify Music``` 🎵
+
+<p align="center">
+  <a href="https://open.spotify.com/track/185Wm4Mx09dQG0fUktklDm?si=Btfle_keSyysCVtV-bZvFQ&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
 I'm currently learning:
 #### 💻Languages :
 <img align="right" alt="js" width="45px" src="https://i.ibb.co/PTMpZF1/1633694131337.png" />
