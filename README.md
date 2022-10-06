@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">ImYanXiao 🎐</h1>
 <p align="center">
-  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=🎐Hii+Im+Not+Programmer;My+Name+is+XiaoYan✨;Im+Just+Student👨‍🎓" alt="UwU">
 </p>
 
 <p align="center">
