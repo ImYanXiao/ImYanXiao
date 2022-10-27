@@ -21,8 +21,8 @@
 <img align="right" alt="py" width="45px" src="https://i.ibb.co/wgNvZ1N/python.png" />
 
 
-
------
+------
+---
  ```bash
 # B i o d a t a 🎨
 
@@ -40,12 +40,6 @@
 ```
 
 ---
-
-## ```Whatsapp``` <a href="https://wa.me/6285736178354"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281231079387) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285736178354) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa) 
-
 ---------
 
 ## ```Status 🐾```
