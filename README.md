@@ -21,9 +21,6 @@
 <img align="right" alt="py" width="45px" src="https://i.ibb.co/wgNvZ1N/python.png" />
 
 
---------
-
-
 
 ---
  ```bash
