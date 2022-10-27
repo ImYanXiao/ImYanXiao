@@ -22,25 +22,6 @@
 
 
 --------
-## Support Me 🍎
-
-<p><a href="https://ko-fi.com/yanxiao21"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yanxiao21" /></a></p><br><br>
-
-
---------
-## Connect With Me 💌
-  <a href="https://wa.me/6285736178354">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/Xiao_yan_21">
-    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:yanxiao021@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
----
-
  ```bash
 # B i o d a t a 🎨
 
