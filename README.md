@@ -16,12 +16,13 @@
 
 ------
 #### I'm currently learning:
-
+```bash
 * JavaScript
 * Html
 * Css
 * Python
-------
+```
+
 ---
  ```bash
 # B i o d a t a 🎨
