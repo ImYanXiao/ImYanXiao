@@ -16,12 +16,11 @@
 
 ------
 #### I'm currently learning:
-<div id="content">
-  <p>JavaScript
-     Python
-     Html
-     Css</p>
-</div>
+
+# JavaScript
+# Html
+# Css
+# Python
 ------
 ---
  ```bash
