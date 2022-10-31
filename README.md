@@ -23,6 +23,7 @@
 * Python
 
 ---
+```bash
 # B i o d a t a 🎨
 
 ##  H o b b y
@@ -36,7 +37,7 @@
 * Age: 18th
 * Gender: Male
 * Name: Xiao Yan
-
+```
 ---
 ---------
 
