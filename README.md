@@ -26,14 +26,14 @@
  ```bash
 # B i o d a t a 🎨
 
-* ##  H o b b y
+##  H o b b y
 * Jogging
 * Music
 * Physical Exercise
 * Fix Script
 * And Other
 
-* ## A b o u t M e
+## A b o u t M e
 * Age: 18th
 * Gender: Male
 * Name: Xiao Yan
