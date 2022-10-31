@@ -17,10 +17,10 @@
 ------
 #### I'm currently learning:
 
-# JavaScript
-# Html
-# Css
-# Python
+* JavaScript
+* Html
+* Css
+* Python
 ------
 ---
  ```bash
