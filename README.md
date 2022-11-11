@@ -17,26 +17,26 @@
 ------
 #### I'm currently learning:
 
-* JavaScript
-* Html
-* Css
-* Python
+> * JavaScript
+> * Html
+> * Css
+> * Python
 
 ---
 ```bash
  B i o d a t a 🎨
 
  H o b b y
-* Jogging
-* Music
-* Physical Exercise
-* Fix Script
-* And Other
+> * Jogging
+> * Music
+> * Physical Exercise
+> * Fix Script
+> * And Other
 
  A b o u t M e
-* Age: 18th
-* Gender: Male
-* Name: Xiao Yan
+> * Age: 18th
+> * Gender: Male
+> * Name: Xiao Yan
 ```
 ---
 ---------
