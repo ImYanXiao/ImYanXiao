@@ -9,7 +9,8 @@
 <a href="https://github.com/ImYanXiao"><img title="Author" src="https://img.shields.io/badge/Xiao-Yan-blue.svg?style=for-the-badge&logo=github"></a>
 
 ## ```Spotify Music``` 🎵
-  <img src="https://now-play.vercel.app/api/generate?uid=bfdadf6c-de9e-468b-bbfa-ffeb7c395aec&theme=dark" />
+
+![now playing](https://now-play.vercel.app/api/generate?uid=bfdadf6c-de9e-468b-bbfa-ffeb7c395aec)
 
 ------
 #### I'm currently learning:
