@@ -25,7 +25,7 @@
 
 ---
  B i o d a t a 🎨
-
+```kt
 fun main() {
     println("About Me 🐾")
     val name = "Xiao Yan"
@@ -37,7 +37,7 @@ fun main() {
     println("Age : $age Th") 
     println("Gender : $gender")
 }
----
+```
 ---------
 
 ## ```Status 🐾```
