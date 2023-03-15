@@ -26,17 +26,17 @@
 ---
  B i o d a t a 🎨
 
- H o b b y
-> * Jogging
-> * Music
-> * Physical Exercise
-> * Fix Script
-> * And Other
-
- A b o u t M e
-> * Age: 18th
-> * Gender: Male
-> * Name: Xiao Yan
+fun main() {
+    println("About Me 🐾")
+    val name = "Xiao Yan"
+    println("My name is $name")
+    
+    val age = 18
+    val gender = "Male"
+    
+    println("Age : $age Th") 
+    println("Gender : $gender")
+}
 ---
 ---------
 
