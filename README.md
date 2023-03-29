@@ -36,7 +36,7 @@ fun main() {
     
     println("Age : $age Th") 
     println("Gender : $gender")
-    println("Not Programmer 👨‍💻")
+    println("Not a Developer or Programmer👨‍💻")
 }
 ```
 ---------
