@@ -47,5 +47,5 @@ fun main() {
 </p>
 
 
-<!--![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=ImYanXiao&layout=compact&theme=nightowl)-->
+<!--![github toplang](https://github-readme-stats.vercel.app/api?username=ImYanXiao&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)-->
 ```go
