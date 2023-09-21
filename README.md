@@ -19,7 +19,8 @@
 #### I'm currently learning:
 
 > * JavaScript
-> * Html
+> * Html 
+> * Assembly 
 > * Css
 > * Python
 
